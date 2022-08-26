@@ -4,13 +4,16 @@
     <Compile Update="csharp_invent_hub\Admin\Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="csharp_invent_hub\Admin\Product_Table.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="csharp_invent_hub\SigninSignup\Login_Form.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="csharp_invent_hub\SigninSignup\Signup_Form.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="csharp_invent_hub\User\Users_Table.cs">
+    <Compile Update="csharp_invent_hub\Admin\Users_Table.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

@@ -10,5 +10,8 @@
     <Compile Update="csharp_invent_hub\SigninSignup\Signup_Form.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="csharp_invent_hub\User\Users_Table.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

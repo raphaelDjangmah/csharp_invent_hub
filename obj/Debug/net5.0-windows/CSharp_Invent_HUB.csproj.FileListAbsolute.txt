@@ -17,3 +17,5 @@ C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_In
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\ref\CSharp_Invent_HUB.dll
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Login_Form.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Signup_Form.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Dashboard.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Properties.Resources.resources

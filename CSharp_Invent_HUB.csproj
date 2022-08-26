@@ -7,4 +7,14 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Screens\**" />
+    <EmbeddedResource Remove="Screens\**" />
+    <None Remove="Screens\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="csharp_invent_hub\Admin\" />
+  </ItemGroup>
+
 </Project>

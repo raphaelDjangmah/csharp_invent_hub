@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\raphe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\raphe\\.nuget\\packages"
+    ]
+  }
+}

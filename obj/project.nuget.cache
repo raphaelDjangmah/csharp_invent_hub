@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D+lm1h3OgLBF+SX/Zrkgqu/Qy1FR4ME7CyM/OvWg7OSGWI5B7EZV7ivzrvMHd4qDaZzEwY+uSRp47SDE/SfUvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raphe\\source\\repos\\CSharp_Invent_HUB\\CSharp_Invent_HUB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raphe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -22,4 +22,16 @@ C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_In
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Users_Table.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Product_Table.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Customer.resources
-C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Categories.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Category.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.Category_Table.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csproj.CopyComplete
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll

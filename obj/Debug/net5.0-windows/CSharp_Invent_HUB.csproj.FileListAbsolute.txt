@@ -43,3 +43,7 @@ C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\refint\CS
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.pdb
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.genruntimeconfig.cache
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\ref\CSharp_Invent_HUB.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\zxing.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\ZXing.Net.Mobile.Core.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\ZXingNetMobile.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\zxing.portable.dll

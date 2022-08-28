@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p8JclRtYHxS9Ik8ScCof7s2D07CLcJduPm5PGLCSnc54JuuNtEcsHwYwzOc2XdHA4SHMPSE0ACxt2asxpugo2w==",
+  "dgSpecHash": "JEeWcr1jWBqKHN0LL5AuMJfF3NGcR4MgWGXG1MXCsmUR+Snop5tctPgtijU813sDd0ID6mgMPx0MtMDRy2thyA==",
   "success": true,
   "projectFilePath": "C:\\Users\\raphe\\source\\repos\\CSharp_Invent_HUB\\CSharp_Invent_HUB.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,8 @@
     "C:\\Users\\raphe\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\raphe\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
     "C:\\Users\\raphe\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\raphe\\.nuget\\packages\\zxing.net\\0.16.8\\zxing.net.0.16.8.nupkg.sha512",
+    "C:\\Users\\raphe\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
     "C:\\Users\\raphe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []

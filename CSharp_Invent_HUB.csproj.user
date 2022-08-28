@@ -16,6 +16,9 @@
     <Compile Update="csharp_invent_hub\Admin\Product_Table.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="csharp_invent_hub\Admin\User_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="csharp_invent_hub\SigninSignup\Login_Form.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -35,3 +35,4 @@ C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\BouncyCas
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csproj.CopyComplete
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.User_Add.resources

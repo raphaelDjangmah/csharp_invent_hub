@@ -1,3 +1,4 @@
+using CSharp_Invent_HUB.csharp_invent_hub.Admin;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,7 @@ namespace CSharp_Invent_HUB
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Signup_Form());
+            Application.Run(new Category_Table());
         }
     }
 }

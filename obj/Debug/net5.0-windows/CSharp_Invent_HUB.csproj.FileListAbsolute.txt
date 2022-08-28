@@ -36,3 +36,6 @@ C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_In
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.User_Add.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.CategoryAdd.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.Customer_Add.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.ProductsAdd.resources

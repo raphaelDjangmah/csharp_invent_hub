@@ -37,5 +37,17 @@
     <Compile Update="csharp_invent_hub\Admin\Users_Table.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="csharp_invent_hub\User\AddOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="csharp_invent_hub\User\BarCodeScanner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="csharp_invent_hub\User\Order_Adder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="csharp_invent_hub\User\User_Dashbord.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

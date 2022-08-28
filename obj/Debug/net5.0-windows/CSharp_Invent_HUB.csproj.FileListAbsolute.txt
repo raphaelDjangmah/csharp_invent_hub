@@ -19,6 +19,7 @@ C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_In
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.CategoryAdd.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.Category_Table.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Customer.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.Customers_Add.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Dashboard.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.ProductsAdd.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Product_Table.resources
@@ -26,6 +27,10 @@ C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_In
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.User_Add.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Login_Form.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Signup_Form.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.User.AddOrders.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.User.BarCodeScanner.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.User.Order_Adder.resources
+C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.User_Dashbord.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.Properties.Resources.resources
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csproj.GenerateResource.cache
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.GeneratedMSBuildEditorConfig.editorconfig
@@ -38,8 +43,3 @@ C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\refint\CS
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.pdb
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.genruntimeconfig.cache
 C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\ref\CSharp_Invent_HUB.dll
-C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.Admin.Customers_Add.resources
-C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.User.AddOrders.resources
-C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.User.BarCodeScanner.resources
-C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.csharp_invent_hub.User.Order_Adder.resources
-C:\Users\raphe\source\repos\CSharp_Invent_HUB\obj\Debug\net5.0-windows\CSharp_Invent_HUB.User_Dashbord.resources

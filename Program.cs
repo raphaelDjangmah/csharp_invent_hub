@@ -17,7 +17,7 @@ namespace CSharp_Invent_HUB
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Users_Table());
+            Application.Run(new Login_Form());
         }
     }
 }

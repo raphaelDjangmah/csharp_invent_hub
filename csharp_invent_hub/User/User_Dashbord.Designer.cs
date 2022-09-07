@@ -43,6 +43,7 @@
             this.label9 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.close_day = new System.Windows.Forms.Button();
+            this.item_search = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.panel3.SuspendLayout();
@@ -54,6 +55,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Navy;
+            this.panel1.Controls.Add(this.item_search);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.pictureBox3);
@@ -82,7 +84,7 @@
             this.button1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.Location = new System.Drawing.Point(980, 27);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(169, 54);
+            this.button1.Size = new System.Drawing.Size(162, 54);
             this.button1.TabIndex = 0;
             this.button1.Text = "Orders";
             this.button1.UseVisualStyleBackColor = false;
@@ -215,6 +217,17 @@
             this.close_day.UseVisualStyleBackColor = false;
             this.close_day.Click += new System.EventHandler(this.close_day_Click);
             // 
+            // item_search
+            // 
+            this.item_search.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.item_search.Location = new System.Drawing.Point(307, 30);
+            this.item_search.Multiline = true;
+            this.item_search.Name = "item_search";
+            this.item_search.PlaceholderText = "Search For items";
+            this.item_search.Size = new System.Drawing.Size(387, 46);
+            this.item_search.TabIndex = 11;
+            this.item_search.TextChanged += new System.EventHandler(this.item_search_TextChanged);
+            // 
             // User_Dashbord
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
@@ -229,6 +242,7 @@
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
@@ -257,5 +271,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Button close_day;
+        private System.Windows.Forms.TextBox item_search;
     }
 }

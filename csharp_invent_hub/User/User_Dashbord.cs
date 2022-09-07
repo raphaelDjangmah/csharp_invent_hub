@@ -23,6 +23,8 @@ namespace CSharp_Invent_HUB
     public partial class User_Dashbord : Form
     {
         private static readonly HttpClient client = new HttpClient();
+        public static bool itemSearch = false;
+        public static string searchQuery = "";
 
         public User_Dashbord()
         {
@@ -187,6 +189,13 @@ namespace CSharp_Invent_HUB
             Login_Form signup = new Login_Form();
             signup.Show();
             Hide();
+        }
+
+        private void item_search_TextChanged(object sender, EventArgs e)
+        {
+            itemSearch = true;
+            searchQuery = item_search.Text.ToString();
+
         }
     }
 }

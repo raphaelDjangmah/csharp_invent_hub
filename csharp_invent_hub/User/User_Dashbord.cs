@@ -181,6 +181,7 @@ namespace CSharp_Invent_HUB
 
         private void button2_Click(object sender, EventArgs e)
         {
+            return;
             loadform(new BarCodeScanner());
         }
 

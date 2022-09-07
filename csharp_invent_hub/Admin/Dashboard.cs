@@ -25,6 +25,8 @@ namespace CSharp_Invent_HUB
         private static readonly HttpClient client = new HttpClient();
         private string update = "";
         private string timeUpdate = "";
+        public static bool itemSearch = false;
+        public static string searchQuery = "";
         public Dashboard()
         {
             InitializeComponent();
@@ -205,6 +207,14 @@ namespace CSharp_Invent_HUB
             this.timeUpdate= timeUpdate;
             label2.Text = getUpdate();
             label3.Text = getTimeUpdate();
+        }
+
+        private void user_search_TextChanged(object sender, EventArgs e)
+        {
+            itemSearch = true;
+            searchQuery = user_search.Text.ToString();
+
+            loadform(new Users_Table());
         }
     }
 }

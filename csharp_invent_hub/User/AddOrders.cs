@@ -30,6 +30,12 @@ namespace CSharp_Invent_HUB.csharp_invent_hub.User
             //populate table
             DbActivities db = new DbActivities();
             string query = String.Format("SELECT * FROM orders");
+
+            if ((User_Dashbord.searchQuery).Length > 0)
+            {
+                query = "SELECT * FROM orders where PRODUCT LIKE '%" + User_Dashbord.searchQuery + "%';";
+            }
+
             MySqlConnection conn = db.connectDB("csharp_ia");
             MySqlDataReader reader = db.queryDB(query, conn);
             int lines = 1;

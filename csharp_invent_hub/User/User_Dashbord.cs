@@ -196,6 +196,8 @@ namespace CSharp_Invent_HUB
             itemSearch = true;
             searchQuery = item_search.Text.ToString();
 
+            loadform(new AddOrders());
+
         }
     }
 }

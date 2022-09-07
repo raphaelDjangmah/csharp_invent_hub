@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Dashboard));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.user_search = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
@@ -53,7 +54,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.HomePanel = new System.Windows.Forms.Panel();
             this.label9 = new System.Windows.Forms.Label();
-            this.user_search = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.OrderBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.UserBox)).BeginInit();
@@ -87,6 +87,17 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1356, 119);
             this.panel1.TabIndex = 0;
+            // 
+            // user_search
+            // 
+            this.user_search.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.user_search.Location = new System.Drawing.Point(372, 34);
+            this.user_search.Multiline = true;
+            this.user_search.Name = "user_search";
+            this.user_search.PlaceholderText = "Search Users";
+            this.user_search.Size = new System.Drawing.Size(387, 46);
+            this.user_search.TabIndex = 10;
+            this.user_search.TextChanged += new System.EventHandler(this.user_search_TextChanged);
             // 
             // label8
             // 
@@ -350,16 +361,6 @@
             this.label9.Size = new System.Drawing.Size(562, 47);
             this.label9.TabIndex = 0;
             this.label9.Text = "CLICK ANY BUTTON TO BEGIN!";
-            // 
-            // user_search
-            // 
-            this.user_search.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.user_search.Location = new System.Drawing.Point(372, 34);
-            this.user_search.Multiline = true;
-            this.user_search.Name = "user_search";
-            this.user_search.PlaceholderText = "Search Users";
-            this.user_search.Size = new System.Drawing.Size(387, 46);
-            this.user_search.TabIndex = 10;
             // 
             // Dashboard
             // 

@@ -9,9 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Xml.Linq;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
-using static ZXing.QrCode.Internal.Mode;
 
 namespace CSharp_Invent_HUB
 {
@@ -28,37 +25,7 @@ namespace CSharp_Invent_HUB
             Users_table_list.ColumnHeadersDefaultCellStyle.BackColor = Color.Navy;
             Users_table_list.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
 
-            //we query from the user details
-
-            DbActivities db = new DbActivities();
-            string query = String.Format("SELECT * FROM account_details", 1);
-
-            if ((User_Dashbord.searchQuery).Length > 0) { 
-                   query = "SELECT * FROM account_details where FIRSTNAME LIKE %" + User_Dashbord.searchQuery + "%;";
-            }
-
-            MySqlConnection conn = db.connectDB("csharp_ia");
-            MySqlDataReader reader = db.queryDB(query, conn);
-            int lines = 1;
-
-            while (reader.Read())
-            {
-                string[] array = new string[7];
-                
-                    array[0] = lines+"";
-                    array[1] = reader["ID"].ToString();
-                    array[2] = (string)reader["FIRSTNAME"];
-                    array[3] =(string)reader["OTHERNAMES"];
-                    array[4] = (string)reader["PASSWORD"];
-                    array[5] = reader["EMAIL"].ToString();
-                    array[6] = reader["PHONE"].ToString();
-
-
-                Users_table_list.Rows.Add(array);
-                lines++;
-            }
-
-            db.closeConnection();
+            loadUsers();
 
         }
 
@@ -111,6 +78,42 @@ namespace CSharp_Invent_HUB
             //navigate to user update and fill the table
             User_Add update = new User_Add();
             update.Show();
+        }
+
+        private void loadUsers()
+        {
+            //we query from the user 
+            DbActivities db = new DbActivities();
+            string query = String.Format("SELECT * FROM account_details", 1);
+
+            if ((Dashboard.searchQuery).Length > 0)
+            {
+                query = "SELECT * FROM account_details where FIRSTNAME LIKE '%" + Dashboard.searchQuery + "%';";
+            }
+
+            MySqlConnection conn = db.connectDB("csharp_ia");
+            MySqlDataReader reader = db.queryDB(query, conn);
+            int lines = 1;
+
+            while (reader.Read())
+            {
+                string[] array = new string[7];
+
+                array[0] = lines + "";
+                array[1] = reader["ID"].ToString();
+                array[2] = (string)reader["FIRSTNAME"];
+                array[3] = (string)reader["OTHERNAMES"];
+                array[4] = (string)reader["PASSWORD"];
+                array[5] = reader["EMAIL"].ToString();
+                array[6] = reader["PHONE"].ToString();
+
+
+                Users_table_list.Rows.Add(array);
+                lines++;
+            }
+
+            db.closeConnection();
+
         }
     }
 }
